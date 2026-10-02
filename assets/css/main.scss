@@ -37,3 +37,12 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Custom: navy, non-underlined links in the main content (light mode only),
+   matching the look of the reference site. Dark mode keeps the theme default. */
+html:not([data-theme="dark"]) .page__content a,
+html:not([data-theme="dark"]) .page__content a:hover,
+html:not([data-theme="dark"]) .page__content a:visited {
+  color: #000080;
+  text-decoration: none;
+}
