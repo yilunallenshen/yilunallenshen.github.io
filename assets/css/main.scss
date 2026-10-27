@@ -98,3 +98,14 @@ html:not([data-theme="dark"]) .page__content a:visited {
     padding-right: 1rem;
   }
 }
+
+/* Custom: large site name in the header, like mattnibloe.com.
+   Smaller on phones so the name fits beside the theme toggle. */
+.masthead__menu-item--lg a {
+  font-size: 28px;
+}
+@media (min-width: 925px) {
+  .masthead__menu-item--lg a {
+    font-size: 40px;
+  }
+}

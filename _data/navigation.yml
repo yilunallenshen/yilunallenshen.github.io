@@ -1,9 +1,15 @@
 # The following is the order of the links in the header of the website.
 #
-# The reference layout keeps the top bar minimal: just your name (added
-# automatically) and a CV link. To add more links, copy a "- title / url" pair.
-# The pages still exist even if they are not listed here, e.g. /publications/.
+# The top bar currently shows only your name (added automatically) and the
+# light/dark toggle. To add a link, replace the empty list below with entries
+# like:
+#
+# main:
+#   - title: "CV"
+#     url: /files/cv.pdf
+#   - title: "Research"
+#     url: /research/
+#
+# Pages still exist even if they are not listed here, e.g. /publications/.
 
-main:
-  - title: "CV"
-    url: /files/cv.pdf
+main: []
