@@ -3,4 +3,17 @@
 <!-- Support for MathJax -->
 <script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("a[href]").forEach(function (a) {
+      var external = a.hostname && a.hostname !== window.location.hostname;
+      var isPdf = /\.pdf$/i.test(a.pathname);
+      if (external || isPdf) {
+        a.setAttribute("target", "_blank");
+        a.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+</script>
+
 <!-- end custom footer snippets -->

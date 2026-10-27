@@ -21,7 +21,7 @@ Biography
 
 I am a PhD candidate in economics at [UCL](https://www.ucl.ac.uk/economics/).
 
-My research interests are macroeconomics, financial intermediation and technological changes.
+My research interests are in macroeconomics, financial intermediation and technological changes.
 
 You can find my CV [here](/files/cv.pdf).
 
