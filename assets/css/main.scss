@@ -46,3 +46,55 @@ html:not([data-theme="dark"]) .page__content a:visited {
   color: #000080;
   text-decoration: none;
 }
+/* Custom: profile photo sized and shaped like mattnibloe.com */
+.author__avatar img {
+  max-width: 200px;
+  border-radius: 8%;
+  padding: 0;
+  border: 0;
+}
+
+/* Below the theme's 925px breakpoint the sidebar sits above the content.
+   Show the photo full size and centred instead of as a 36px thumbnail. */
+@media screen and (max-width: 924px) {
+  .author__avatar {
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+  }
+  .author__content {
+    display: block;
+    padding: 0;
+  }
+  .author__urls-wrapper {
+    display: block;
+    width: 250px;
+    margin: 0.75em auto 0;
+    text-align: center;
+  }
+}
+
+/* Custom: wider sidebar and narrower text column, matching mattnibloe.com */
+@media (min-width: 925px) {
+  .sidebar {
+    width: 23.73%;
+    margin-left: 8.47%;
+    margin-right: 1.69%;
+    padding-right: 1rem;
+  }
+  .page {
+    width: 57.63%;
+    float: left;
+    margin-left: 33.9%;
+    margin-right: 1.69%;
+    padding-left: 4.24%;
+    padding-right: 0;
+  }
+}
+@media (min-width: 1280px) {
+  .sidebar {
+    max-width: 304px;
+    margin-left: 108px;
+    padding-right: 1rem;
+  }
+}

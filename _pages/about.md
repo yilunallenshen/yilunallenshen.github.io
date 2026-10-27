@@ -16,9 +16,6 @@ redirect_from:
   opening <p ...> down to the spacer <div>) and edit the text.
 -->
 
-Biography
-======
-
 I am a PhD candidate in economics at [UCL](https://www.ucl.ac.uk/economics/).
 
 My research interests are in macroeconomics, financial intermediation and technological changes.
