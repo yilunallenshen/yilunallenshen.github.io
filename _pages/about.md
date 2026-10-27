@@ -21,15 +21,27 @@ Biography
 
 I am a PhD candidate in economics at [UCL](https://www.ucl.ac.uk/economics/).
 
-My research sits at the intersection of [FIELD ONE] and [FIELD TWO]. I use [METHODS] to study [TOPIC].
+My research interest are macroeconomics, financial intermediation and technological changes.
 
 You can find my CV [here](/files/cv.pdf).
+
+Job Market Paper
+======
+
+<p style="margin-bottom: 0;"><strong>Bank Market Power and Interest Rate Risk</strong> | <a href="/files/paper1.pdf">Draft</a><br />
+<em>With <a href="https://example.com">A. Coauthor</a> and <a href="https://example.com">B. Coauthor</a>.</em><br />
+Presented at <a href="https://example.com">Conference Name 2026</a>.</p>
+<details>
+<summary>Abstract</summary>
+<p style="text-align: justify;">What determines banks’ earnings exposure to interest rate risk? We propose a novel mechanism linking optimal exposure to relative market power in funding and lending. Two stylised facts motivate the analysis: banks partially match income and expense sensitivities but retain heterogeneous exposures to interest rate changes, while loan pricing suggests stronger market power over fixed-rate than variable-rate contracts. In our model, risk-averse banks adjust their loan portfolios to balance earnings stability against exploiting pricing power over fixed-rate lending. Relative market power determines whether earnings rise or fall when rates increase. A calibrated extension shows that stronger deposit competition shifts banks’ exposure while leaving fixed-rate lending nearly unchanged. In this calibration, greater interest rate uncertainty raises borrowers’ demand for protection, expanding fixed-rate lending and making earnings vulnerable to rate increases. These findings connect competition on both sides of banks’ balance sheets to the allocation of interest rate risk, with implications for competition policy and supervision.</p>
+</details>
+<div style="height: 0.75rem;"></div>
 
 Working Papers
 ======
 
-<p style="margin-bottom: 0;"><strong>Title of Your First Working Paper</strong> | <a href="/files/paper1.pdf">Draft</a><br />
-<em>With <a href="https://example.com">A. Coauthor</a> and <a href="https://example.com">B. Coauthor</a>.</em><br />
+<p style="margin-bottom: 0;"><strong>Technological Innovations and Worker Skills</strong> | <a href="/files/paper1.pdf">Draft</a><br />
+<em>With <a href="https://mattnibloe.com/">Matthew Nibloe</a> and <a href="https://joernonken.com/">Joern Onken</a>.</em><br />
 Presented at <a href="https://example.com">Conference Name 2026</a>.</p>
 <details>
 <summary>Abstract</summary>
