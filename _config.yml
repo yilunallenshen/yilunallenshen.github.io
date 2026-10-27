@@ -23,7 +23,7 @@ repository               : "yilunallenshen/yilunallenshen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_2.jpg"
+  avatar           : "profile_photo_1.jpg"
   name             : # left blank so only the photo shows in the sidebar; your name is in the top bar
   pronouns         : # example: "she/her"  
   bio              : # left blank for a minimal sidebar
@@ -31,7 +31,7 @@ author:
   employer         : "University College London"
   uri              : # URL
   email            : "allen.shen.16@ucl.ac.uk"
-  cv               : "/files/cv.pdf" # upload your CV to the files folder with this name
+  cv               : "/files/cv_yilun_allen_shen.pdf" # upload your CV to the files folder with this name
 
   # Academic websites
   academia         : # URL
