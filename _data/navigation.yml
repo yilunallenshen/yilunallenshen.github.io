@@ -1,8 +1,7 @@
 # The following is the order of the links in the header of the website.
 #
-# The top bar currently shows only your name (added automatically) and the
-# light/dark toggle. To add a link, replace the empty list below with entries
-# like:
+# The top bar currently shows only your name (added automatically). To add a
+# link, replace the empty list below with entries like:
 #
 # main:
 #   - title: "CV"

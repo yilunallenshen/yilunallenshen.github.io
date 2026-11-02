@@ -13,7 +13,6 @@
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -38,11 +37,11 @@
     "layout/json_cv"
 ;
 
-/* Custom: navy, non-underlined links in the main content (light mode only),
-   matching the look of the reference site. Dark mode keeps the theme default. */
-html:not([data-theme="dark"]) .page__content a,
-html:not([data-theme="dark"]) .page__content a:hover,
-html:not([data-theme="dark"]) .page__content a:visited {
+/* Custom: navy, non-underlined links in the main content,
+   matching the look of the reference site. */
+.page__content a,
+.page__content a:hover,
+.page__content a:visited {
   color: #000080;
   text-decoration: none;
 }
@@ -100,7 +99,7 @@ html:not([data-theme="dark"]) .page__content a:visited {
 }
 
 /* Custom: large site name in the header, like mattnibloe.com.
-   Smaller on phones so the name fits beside the theme toggle. */
+   Smaller on phones so the name fits. */
 .masthead__menu-item--lg a {
   font-size: 28px;
 }
