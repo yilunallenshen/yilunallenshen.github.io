@@ -46,7 +46,7 @@ Working Papers
 </p>
 <details>
 <summary>Abstract</summary>
-<p style="text-align: justify;">When a depository bank loses net worth, does it contract its own lending or the funding it provides to nonbank lenders? In U.S. Call Reports, mortgage-backed and other asset-backed securities account for roughly 6\% of assets for smaller banks and nearly 15\% in for largest banks. I develop a model in which a wholesale claim funds a nonbank lender and serves as a private safe asset for the depository bank that holds it. Small banks hold just enough claims to meet liquidity requirements and cut both forms of lending after a loss. In contrast, large banks absorb a marginal loss of balance-sheet capacity entirely by cutting wholesale funding. In a U.S. banking industry calibration, a 50-basis-point decline in annualised loan returns reduces wholesale funding by about 1.6\% on impact, compared with just over 0.5\% with a representative depository bank, highlighting the role of heterogeneity in credit supply responses.</p>
+<p style="text-align: justify;">When a depository bank loses net worth, does it contract its own lending or the funding it provides to nonbank lenders? In U.S. Call Reports, mortgage-backed and other asset-backed securities account for roughly 6% of assets for smaller banks and nearly 15% in for largest banks. I develop a model in which a wholesale claim funds a nonbank lender and serves as a private safe asset for the depository bank that holds it. Small banks hold just enough claims to meet liquidity requirements and cut both forms of lending after a loss. In contrast, large banks absorb a marginal loss of balance-sheet capacity entirely by cutting wholesale funding. In a U.S. banking industry calibration, a 50-basis-point decline in annualised loan returns reduces wholesale funding by about 1.6% on impact, compared with just over 0.5% with a representative depository bank, highlighting the role of heterogeneity in credit supply responses.</p>
 </details>
 <div style="height: 0.75rem;"></div>
 
@@ -55,10 +55,9 @@ Works in Progress
 
 <p><strong>Public Debt, Bank Liquidity and Credit Supply</strong> | <a href="/files/fiscal_bank_slides_yilun_allen_shen.pdf">Slides</a>
 </p>
-
 <details>
 <summary>Abstract</summary>
-<p style="text-align: justify;">Treasury securities provide banks with liquidity and offer savers an alternative to deposits. How does this dual role shape the effect of public liquidity on bank lending? I construct Treasury issuance surprises from within-quarter errors in the Federal Reserve’s Greenbook forecasts of U.S. government net borrowing. Using quarterly bank balance sheets from 1994 to 2019, I estimate lending responses across banks ranked by high-quality liquid assets (HQLA) as a share of total assets. For a 1\% increase in government debt, real lending in the most liquid quintile rises by about 1.4\%. In contrast, real lending contracts for banks with less HQLA. These preliminary findings motivate a model of how competition for deposits and liquidity requirements shape credit supply.</p>
+<p style="text-align: justify;">Treasury securities provide banks with liquidity and offer savers an alternative to deposits. How does this dual role shape the effect of public liquidity on bank lending? I construct Treasury issuance surprises from within-quarter errors in the Federal Reserve’s Greenbook forecasts of U.S. government net borrowing. Using quarterly bank balance sheets from 1994 to 2019, I estimate lending responses across banks ranked by high-quality liquid assets (HQLA) as a share of total assets. For a 1% increase in government debt, real lending in the most liquid quintile rises by about 1.4%. In contrast, real lending contracts for banks with less HQLA. These preliminary findings motivate a model of how competition for deposits and liquidity requirements shape credit supply.</p>
 </details>
 <div style="height: 0.75rem;"></div>
 
