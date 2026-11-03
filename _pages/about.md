@@ -25,7 +25,7 @@ You can find my CV [here](/files/cv_yilun_allen_shen.pdf).
 Working Papers
 ======
 
-<p style="margin-bottom: 0;"><strong>Bank Market Power and Interest Rate Risk (Job Market Paper) </strong> | draft available upon request <br />
+<p style="margin-bottom: 0;"><strong>Bank Market Power and Interest Rate Risk (Job Market Paper) </strong> | <a href="/files/jmp_yilun_allen_shen.pdf">Draft</a><br />
 </p>
 <details>
 <summary>Abstract</summary>
