@@ -50,10 +50,10 @@ Working Papers
 </details>
 <div style="height: 0.75rem;"></div>
 
-Works in Progress
+Work in Progress
 ======
 
-<p><strong>Public Debt, Bank Liquidity and Credit Supply</strong> | <a href="/files/fiscal_bank_slides_yilun_allen_shen.pdf">Slides</a>
+<p style="margin-bottom: 0;"><strong>Public Debt, Bank Liquidity and Credit Supply</strong> | <a href="/files/fiscal_bank_slides_yilun_allen_shen.pdf">Slides</a>
 </p>
 <details>
 <summary>Abstract</summary>
