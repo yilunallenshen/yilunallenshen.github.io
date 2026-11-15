@@ -53,7 +53,7 @@ Working Papers
 Work in Progress
 ======
 
-<p style="margin-bottom: 0;"><strong>Public Debt, Bank Liquidity and Credit Supply</strong> | <a href="/files/fiscal_bank_slides_yilun_allen_shen.pdf">Slides</a>
+<p style="margin-bottom: 0;"><strong>Public Debt, Bank Liquidity and Credit Supply</strong> | <a href="/files/slides_bank_liq_fiscal.pdf">Slides</a>
 </p>
 <details>
 <summary>Abstract</summary>
